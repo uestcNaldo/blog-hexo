@@ -7,7 +7,7 @@ title: Naldo's Blog
 subtitle: ''
 description: "Naldo's Hexo Blog Demo"
 keywords:
-author: John Doe
+author: Naldo Wang
 language: zh-Hans
 timezone: 'Asia/Shanghai'
 
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: lx
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
